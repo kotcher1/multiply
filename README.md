@@ -22,5 +22,3 @@ Write your code in `src/index.js`
 ### Заметки
 1. Рекомендуется использовать nodejs версии 10 или ниже.
 2. Рекомендуется реализовать функцию так, чтоб каждый из тестов не превышал 30 секунд.
-
-credits [@yankouskia](https://github.com/yankouskia/)
